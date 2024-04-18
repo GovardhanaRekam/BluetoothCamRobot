@@ -39,7 +39,7 @@ Describe how to use the robot, including any web interface or command details ne
 
 ## Authors 🧑‍💻
 
-- **Your Name** - *Initial work* - [MyGithubProfile](https://github.com/GovardhanaRekam)
+- **Govardhana Rekam** - *Initial work* - [MyGithubProfile](https://github.com/GovardhanaRekam)
 
 ## License 📄
 
