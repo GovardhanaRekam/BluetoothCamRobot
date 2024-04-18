@@ -10,7 +10,7 @@ Welcome to the ESP32-CamRobotController project! This repository houses the code
 - **Web Interface**: A simple and intuitive interface to control the robot and view the camera feed.
 
 ## Quick Demo 🎥
-Check out a quick demo of the ESP32-CamRobotController in action. [Watch on YouTube](https://youtu.be/mVgPbeMpcf4?si=_c_zvnnQuyv9xlXW)
+Check out a quick demo of the ESP32-Code uploading in action. [Watch on YouTube](https://youtu.be/mVgPbeMpcf4?si=_c_zvnnQuyv9xlXW)
 
 ## Getting Started 🛠️
 
