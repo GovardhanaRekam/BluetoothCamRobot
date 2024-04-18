@@ -10,8 +10,7 @@ Welcome to the ESP32-CamRobotController project! This repository houses the code
 - **Web Interface**: A simple and intuitive interface to control the robot and view the camera feed.
 
 ## Quick Demo 🎥
-
-Check out a quick demo of the ESP32-CamRobotController in action.
+Check out a quick demo of the ESP32-CamRobotController in action. [Watch on YouTube](https://youtu.be/mVgPbeMpcf4?si=_c_zvnnQuyv9xlXW)
 
 ## Getting Started 🛠️
 
@@ -32,8 +31,10 @@ Follow these steps to get your copy of the project up and running:
 4. **Accessing the Web Interface**: Connect to the robot's WiFi network and navigate to the provided IP.
 
 ## Usage ℹ️
-
-Describe how to use the robot, including any web interface or command details necessary for operation.
+1. First open MIT app Invention
+2. Upload android app zip in repository to it .
+3. click on design click web view then in HomeURI change it.
+4. then Download via buid option .
 
 
 
